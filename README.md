@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juststraight
+- 👋 Hi, I’m @ayush
 - 👀 I’m interested in machine learning, statistics, EDA, deep learning and other data science domains.
 - 🌱 I’m currently learning NLP techniques using python.
 - 💞️ I’m looking to collaborate on any intresting data science project.
