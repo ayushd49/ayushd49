@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ayush
-- 👀 I’m interested in machine learning, statistics, EDA, deep learning and other data science domains.
-- 🌱 I’m currently learning NLP techniques using python.
+- 👋 Hi, 
+- 👀 I’m interested in machine learning, statistics and natural language processing.
+- 🌱 I’m currently studying Large language models and their potential applications in caching and cloud offloading.
 - 💞️ I’m looking to collaborate on any intresting data science project.
 
 <!---
